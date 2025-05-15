@@ -1,0 +1,2 @@
+# Introduction_to_Artificial_Intelligence_and_Machine_Learning
+This repository contains Introduction to Artificial Intelligence and Machine Learning course projects.
