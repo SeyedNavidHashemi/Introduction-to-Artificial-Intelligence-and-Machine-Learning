@@ -4,7 +4,7 @@ A machine learning project implementing Hidden Markov Models (HMMs) for speaker 
 
 ## Overview
 
-This project applies HMMs to recognize spoken digits (0-9) and identify speakers from audio recordings. It demonstrates the complete pipeline from audio preprocessing and feature extraction to model training and evaluation.
+This project applies HMMs to recognize spoken digits (0-9) and identify speakers from audio recordings. It demonstrates the complete pipeline from audio preprocessing and feature extraction to model training and evaluation.(In "recording" directy there are only some examples not all of the dataset)
 
 ## Problem Description
 
